@@ -7,7 +7,7 @@
 </a>
 
 <p align="center">
-  Engenheiro de Software Mobile focado na entrega de aplicações de alta performance e experiências fluidas.
+  Engenheiro de Software Mobile focado na arquitetura e entrega de aplicações de alta performance.
 </p>
 
 </div>
@@ -16,19 +16,17 @@
 
 ## 👨🏻‍💻 Sobre mim
 
-Especialista no ecossistema mobile de ponta a ponta. Atuo desde a ideação e arquitetura de soluções escaláveis até a publicação final nas lojas de aplicativos. Minha paixão é transformar problemas complexos em interfaces *pixel-perfect*.
+Especialista no desenvolvimento mobile de ponta a ponta, com foco na entrega de arquiteturas escaláveis, código limpo e interfaces *pixel-perfect*. Atuo resolvendo problemas complexos e orquestrando integrações robustas para garantir a melhor experiência ao usuário final.
 
-- 🍎 Desenvolvedor iOS e Pesquisador na **Apple Developer Academy**.
-- 📱 Experiência corporativa em desenvolvimento **Flutter** e arquiteturas limpas (Clean/MVVM).
-- 🚀 Tenho apps interativos e de consumo de dados em tempo real **publicados na App Store**.
-- 🎯 **Meta atual:** Fazer pelo menos um estudo de caso/commit por dia para dominar cada vez mais Swift, Flutter e Kotlin.
+- 🍎 **Ecossistema Apple:** Desenvolvedor iOS e Pesquisador na **Apple Developer Academy**, focado em Swift, SwiftUI, UIKit, CoreML e SwiftData.
+- 💙 **Engenharia Flutter:** Experiência corporativa no desenvolvimento de aplicações de grande porte. Proficiente na orquestração de integrações complexas (CRMs, REST APIs) e na aplicação estrita de **Clean Architecture**, gerenciamento de estado avançado (BLoC/Cubit) e pipelines CI/CD.
+- 🚀 **Impacto e Qualidade:** Foco em testes, refatoração ativa e publicação de produtos sólidos na App Store.
 
 ---
 
 ## 🛠 Tecnologias e Ferramentas
 
 <div align="center">
-  <p>O arsenal que uso para construir apps de ponta:</p>
   <br>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=swift,kotlin,flutter,dart,apple,python,sqlite,firebase,figma,git&perline=5" alt="My Skills" />
@@ -42,8 +40,8 @@ Especialista no ecossistema mobile de ponta a ponta. Atuo desde a ideação e ar
 ## 📊 Minhas Estatísticas
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=silvaaszx&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Estatísticas do Matheus" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=silvaaszx&layout=compact&theme=radical&hide_border=true" alt="Linguagens mais usadas" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=silvaaszx&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" height="165" alt="Estatísticas do Matheus" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=silvaaszx&layout=compact&theme=radical&hide_border=true" height="165" alt="Linguagens mais usadas" />
 </div>
 
 ---
@@ -58,7 +56,7 @@ Especialista no ecossistema mobile de ponta a ponta. Atuo desde a ideação e ar
 <br>
 
 <div align="center">
-  <i>"Construindo o futuro do mobile, um commit por dia."</i> <br><br>
+  <i>"Engenharia robusta para o futuro do mobile."</i> <br><br>
   <a href="mailto:mfigueredosilva1@gmail.com">
     <img src="https://img.shields.io/badge/Email-mfigueredosilva1%40gmail.com-blue?style=for-the-badge&logo=gmail" alt="Email" />
   </a>
