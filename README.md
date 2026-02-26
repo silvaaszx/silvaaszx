@@ -10,9 +10,7 @@
   Engenheiro de Software Mobile focado na arquitetura e entrega de aplicações de alta performance.
 </p>
 
-<a href="https://github.com/silvaaszx?tab=achievements">
-  <img src="https://github-profile-trophy.vercel.app/?username=silvaaszx&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Matheus Trophies" />
-</a>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=silvaaszx&theme=radical&hide_border=true&locale=pt_BR" alt="GitHub Streak" />
 
 </div>
 
@@ -43,19 +41,6 @@ Especialista no desenvolvimento mobile de ponta a ponta, com foco na entrega de 
 <div align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=swift,kotlin,flutter,dart,apple,android,python,sqlite,firebase,figma,git,github&perline=6" alt="My Skills" />
-  </a>
-</div>
-
----
-
-## 📊 Minhas Estatísticas
-
-<div align="center">
-  <a href="https://github.com/silvaaszx">
-    <img src="https://github-readme-stats.vercel.app/api?username=silvaaszx&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="Estatísticas do Matheus" />
-  </a>
-  <a href="https://github.com/silvaaszx">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=silvaaszx&layout=compact&theme=radical&hide_border=true" alt="Linguagens mais usadas" />
   </a>
 </div>
 
