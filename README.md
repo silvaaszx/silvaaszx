@@ -10,7 +10,7 @@
   Engenheiro de Software Mobile focado na arquitetura e entrega de aplicações de alta performance.
 </p>
 
-<a href="[https://github.com/ryo-ma/github-profile-trophy](https://github.com/silvaaszx)">
+<a href="https://github.com/ryo-ma/github-silvaaszx-trophy">
   <img src="https://github-profile-trophy.vercel.app/?username=silvaaszx&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Matheus Trophies" />
 </a>
 
