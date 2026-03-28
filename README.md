@@ -96,10 +96,10 @@ struct MatheusBot: Developer {
 | App | Descrição | Status |
 | :--- | :--- | :--- |
 | **NotchPrime (macOS)** | Utilitário premium que transforma o notch em interface interativa. | [Confira](https://matheus.dev) |
-| **BulkingTracker** | App nativo SwiftUI para saúde com SwiftData e renderização 60 FPS. | [App Store](#) |
+| **BulkingTracker** | App nativo SwiftUI para saúde com cálculo de calorias via IA| [App Store](#) |
 | **HodlVision** | Rastreador de portfólio Bitcoin via WebSockets (<50ms latência). | [App Store](#) |
 | **Raven Stories** | Jogo interativo mobile com arquitetura híbrida SwiftUI/UIKit. | [App Store](#) |
-| **Scout Soccer** | App de estatísticas esportivas com parsing JSON em tempo real. | [App Store](#) |
+| **PsiManager** | App de gerenciamento de pacientes e geração de laudo via IA para psicólogos | [App Store](#) |
 
 </div>
 
@@ -108,8 +108,6 @@ struct MatheusBot: Developer {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=silvaaszx&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img width="48.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silvaaszx&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </div>
 
 <div align="center">
